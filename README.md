@@ -154,6 +154,14 @@ There are two demos that show the power of .NET Core, Visual Studio and Azure. I
 
 In order to show these demos, you need to have the services deployed to your own Azure subscription.
 
+# Additional Resources
+
+## Microsoft Platform Guidance
+
+Looking for guidance on building intranets or other Microsoft solutions? Check out our documentation:
+
+* **[Microsoft Intranet Solutions for Public Transport Organizations](Documents/Microsoft-Intranet-Solutions-for-Public-Transport.md)** - Comprehensive guide on choosing and implementing Microsoft platforms for building intranets, specifically tailored for public transport organizations.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
